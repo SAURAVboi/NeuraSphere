@@ -10,7 +10,7 @@ Click or tap sends energy pulses animated via custom GLSL shaders, brightening n
 
 ## Live Demo
 
-[View Project](YOUR_PROJECT_LINK_HERE)
+[View Project](https://github.com/SAURAVboi/NeuraSphere)
 
 ---
 
